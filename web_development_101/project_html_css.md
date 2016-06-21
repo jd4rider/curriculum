@@ -718,6 +718,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 (http://htmlpreview.github.io/?https://github.com/FaalVedtuz/google-result/index.html)
 * [Jitesh Pabla's Solution (Easy)](https://github.com/jiteshpabla/google-homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/jiteshpabla/google-homepage/blob/master/index.html)
 * [Isaac Pak's Solution (Easy)](https://github.com/pak11273/google-homepage/blob/master/index.html) | [View in browser](https://htmlpreview.github.io/?https://github.com/pak11273/google-homepage/blob/master/index.html)
+* [Jonathan Forrider's Solution (Easy)](https://github.com/jd4rider/google-homepage) | [View in browser] (http://codepen.io/jd4rider/full/Eygbyg/)
 * Add your solution above this line!
 
 ## Additional Resources
